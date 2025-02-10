@@ -1,0 +1,3 @@
+displayName = Pirates++
+author = lotus
+version = 0.1
